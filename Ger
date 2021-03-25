@@ -3,7 +3,7 @@
 <script type"text/javasript">
 {
 document.write("<h1>Germany</h1>");
-document.write("<p>Здравсвтуй детский сад</p>");
+document.write("<p>Здравсвтуй! детский сад</p>");
 
 </script>
 </body>
